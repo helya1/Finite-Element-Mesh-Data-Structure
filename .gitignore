@@ -1,0 +1,15 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.listing
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+*.DS_Store
+node_modules/
+cache/
+public/
+/build/  
+*.o  
