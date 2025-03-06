@@ -1,5 +1,5 @@
 
-![C++ CI](https://github.com/YOUR_USERNAME/FiniteElementMesh/actions/workflows/ci.yml/badge.svg)
+![C++ CI](https://github.com/helya1/FiniteElementMesh/actions/workflows/ci.yml/badge.svg)
 
 # Finite Element Mesh (2D)
 
