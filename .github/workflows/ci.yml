@@ -23,5 +23,11 @@ jobs:
       - name: Build project
         run: cmake --build build
 
+      - name: Install Google Test
+        run: sudo apt install libgtest-dev cmake
+
       - name: Run executable
-        run: ./build/FiniteElementMesh
+        run: ./build/main
+
+      - name: Run Tests
+        run: ctest --output-on-failure
